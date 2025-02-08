@@ -2,8 +2,10 @@
 - 🎮 I’m interested in gaming/tech
 - 💻 I’m currently learning C++
 - ➕ I’m looking to collaborate on anything
-- 📫 How to reach me DM me on Discord or my email
-- ⚡ Fun fact: I'm a Cube
+- 📫 How to reach me DM me on Discord
+
+
+CURRENT PROJECTS:
 
 <!---
 CubeGamer13/CubeGamer13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
